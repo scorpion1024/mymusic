@@ -1,29 +1,8 @@
 # wymusic
 
-## Project setup
-```
-yarn install
-```
+##VUE项目
+手机浏览器 布局（请勿用PC分辨率打开）
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+基本功能音乐加载，播放，播放时间显示，拖拽等
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+数据在项目内部模拟生成
